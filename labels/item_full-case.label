@@ -9,13 +9,13 @@
 	</DrawCommands>
 	<ObjectInfo>
 		<TextObject>
-			<Name>textName</Name>
+			<Name>TextName</Name>
 			<ForeColor Alpha="255" Red="0" Green="0" Blue="0" />
 			<BackColor Alpha="0" Red="255" Green="255" Blue="255" />
 			<LinkedObjectName />
 			<Rotation>Rotation0</Rotation>
 			<IsMirrored>False</IsMirrored>
-			<IsVariable>False</IsVariable>
+			<IsVariable>True</IsVariable>
 			<GroupID>-1</GroupID>
 			<IsOutlined>False</IsOutlined>
 			<HorizontalAlignment>Center</HorizontalAlignment>
@@ -25,7 +25,7 @@
 			<Verticalized>False</Verticalized>
 			<StyledText>
 				<Element>
-					<String xml:space="preserve">Mercury S/S</String>
+					<String xml:space="preserve"></String>
 					<Attributes>
 						<Font Family="Arial" Size="20" Bold="True" Italic="False" Underline="False" Strikeout="False" />
 						<ForeColor Alpha="255" Red="0" Green="0" Blue="0" HueScale="100" />
@@ -37,7 +37,7 @@
 	</ObjectInfo>
 	<ObjectInfo>
 		<BarcodeObject>
-			<Name>barcode</Name>
+			<Name>Barcode</Name>
 			<ForeColor Alpha="255" Red="0" Green="0" Blue="0" />
 			<BackColor Alpha="0" Red="255" Green="255" Blue="255" />
 			<LinkedObjectName />
@@ -46,7 +46,7 @@
 			<IsVariable>True</IsVariable>
 			<GroupID>-1</GroupID>
 			<IsOutlined>False</IsOutlined>
-			<Text>T00-102178-CS</Text>
+			<Text></Text>
 			<Type>Code128Auto</Type>
 			<Size>Small</Size>
 			<TextPosition>Bottom</TextPosition>
@@ -89,13 +89,13 @@
 	</ObjectInfo>
 	<ObjectInfo>
 		<TextObject>
-			<Name>casepack</Name>
+			<Name>Casepack</Name>
 			<ForeColor Alpha="255" Red="0" Green="0" Blue="0" />
 			<BackColor Alpha="0" Red="255" Green="255" Blue="255" />
 			<LinkedObjectName />
 			<Rotation>Rotation0</Rotation>
 			<IsMirrored>False</IsMirrored>
-			<IsVariable>False</IsVariable>
+			<IsVariable>True</IsVariable>
 			<GroupID>-1</GroupID>
 			<IsOutlined>False</IsOutlined>
 			<HorizontalAlignment>Center</HorizontalAlignment>
@@ -105,7 +105,7 @@
 			<Verticalized>False</Verticalized>
 			<StyledText>
 				<Element>
-					<String xml:space="preserve">18|1</String>
+					<String xml:space="preserve"></String>
 					<Attributes>
 						<Font Family="Arial" Size="18" Bold="True" Italic="False" Underline="False" Strikeout="False" />
 						<ForeColor Alpha="255" Red="0" Green="0" Blue="0" HueScale="100" />
